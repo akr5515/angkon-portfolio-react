@@ -15,8 +15,8 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'Real state project made with NextJS.',
+        projectName: 'Real Estate Project',
+        projectDesc: 'Real estate project made with NextJS.',
         tags: ['NextJS'],
         code: 'https://github.com/akr5515/Real-Estate-NextJS',
         demo: 'https://real-estate-next-js-gray.vercel.app',

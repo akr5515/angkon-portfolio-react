@@ -2,7 +2,7 @@ export const headerData = {
   name: "Angkon Kumar Roy",
   title: "Hello! I am",
   desciption:
-    "Software engineer with 2years of front-end developing experience in Agile Development Environment with ReactJS, NodeJS and have strong communication skill in English. Focusing on reusable components, pixel perfect designing, problem solving and optimizing performance.",
+    "Software engineer with 2years of developing experience in Agile Development Environment with ReactJS, NodeJS and have strong communication skill in English. Focusing on reusable components, pixel perfect designing, problem solving and optimizing performance.",
   //   image: "https://i.ibb.co/angkonkumar.jpg",
   image: "../assets/png/angkon.jpg",
   //   imagebw: "https://i.ibb.co/angkonkumar.jpg",

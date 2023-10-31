@@ -5,7 +5,7 @@ import six from "../assets/svg/projects/six.svg";
 export const projectsData = [
   {
     id: 1,
-    projectName: "CharJS Customization",
+    projectName: "ChartJS Customization",
     projectDesc: "ChartJS customization with react typescript",
     tags: ["React", "Typescript", "ChartJS"],
     code: "https://github.com/akr5515/react-chartjs-implementation",

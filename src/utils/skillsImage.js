@@ -90,6 +90,7 @@ import googleAnalyticsIcon from "../assets/svg/skills/icon-googleAnalytics.png";
 import webpackIcon from "../assets/svg/skills/icon-webpack.png";
 import sassIcon from "../assets/svg/skills/icon-sass.png";
 import chartJsIcon from "../assets/svg/skills/icon-chartjs.png";
+import nestJsIcon from "../assets/svg/skills/nestjs.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -273,6 +274,8 @@ export const skillsImage = (skill) => {
       return sassIcon;
     case "chartjs":
       return chartJsIcon;
+    case "nestjs":
+      return nestJsIcon;
 
     default:
       break;

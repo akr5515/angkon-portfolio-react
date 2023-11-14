@@ -5,6 +5,7 @@ export const skillsData = [
   "PHP",
   "React",
   "Express",
+  "NestJS",
   "Laravel",
   "MaterialUI",
   "Ant Design",

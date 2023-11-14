@@ -91,6 +91,7 @@ import webpackIcon from "../assets/svg/skills/icon-webpack.png";
 import sassIcon from "../assets/svg/skills/icon-sass.png";
 import chartJsIcon from "../assets/svg/skills/icon-chartjs.png";
 import nestJsIcon from "../assets/svg/skills/nestjs.svg";
+import prismaIcon from "../assets/svg/skills/prisma.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -276,6 +277,8 @@ export const skillsImage = (skill) => {
       return chartJsIcon;
     case "nestjs":
       return nestJsIcon;
+    case "prisma":
+      return prismaIcon;
 
     default:
       break;

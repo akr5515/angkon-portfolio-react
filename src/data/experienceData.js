@@ -1,10 +1,17 @@
 export const experienceData = [
   {
     id: 1,
+    company: "Bevy Commerce",
+    jobtitle: "Full Stack Developer",
+    startYear: "April 2024",
+    endYear: "Present",
+  },
+  {
+    id: 2,
     company: "BJIT",
     jobtitle: "Software Engineer",
     startYear: "August 2021",
-    endYear: "Present",
+    endYear: "March, 2024",
   },
   // {
   //   id: 2,

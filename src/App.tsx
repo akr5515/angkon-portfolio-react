@@ -5,7 +5,6 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
-import "./App.css";
 import { ThemeContext, ThemeContextProps } from "./contexts/theme-context";
 import HomePage from "./pages/home";
 import ScrollToTop from "./components/helper/scroll-to-top";
